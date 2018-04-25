@@ -1,5 +1,5 @@
 {
-    "name": "angelcoding/oc-imageresizer-plugin",
+    "name": "toughdeveloper/imageresizer",
     "type": "october-plugin",
     "description": "October CMS Plugin to resize and compress images.",
     "license": "MIT",
